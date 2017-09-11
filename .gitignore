@@ -57,3 +57,18 @@ typings/
 # dotenv environment variables file
 .env
 
+# webstorm
+dist
+.tern-project
+.idea
+.settings
+.vscode
+gen
+*.swp
+.DS_Store
+.idea
+
+# project
+uploads
+build
+
